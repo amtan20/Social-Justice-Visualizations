@@ -1,2 +1,2 @@
 # Visualizations
-A collection of my data visualizations
+A collection of my social justice-oriented data visualizations
